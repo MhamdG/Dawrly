@@ -56,10 +56,12 @@
      width: 904px;
     height: 230px;
     overflow: hidden;
+    display:none;
 }
 #seperator{
     width: 932px;
     height: 79px;
+    margin: 0 auto;
    
 }
 .products_cont{
@@ -105,7 +107,7 @@
     width: 311px;
     height: 52px;
     background: #c26dd6;
-    
+
 }
 
 .title1 img{ 
@@ -190,6 +192,33 @@ pro3 li img{
     background: url('../images/footer_bg.png');
     background-repeat: repeat-y;
 }
+.conent_view{
+    width: 932px;
+    height: 8px;
+    background: url('../images/top_view.png');
+    margin: 0 auto;
+       
+}
+#desc_{
+    width: 912px;
+    height: 402px;
+    background: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+#words{
+    width: 558px;
+    height: 382px;
+    border: 1px solid black;
+    float: right;
+}
+#map{
+    width: 322px;
+    height: 297px;
+    float: right;
+    margin: 10px;
+}
+
 
 
 

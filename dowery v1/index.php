@@ -33,7 +33,7 @@
             <div id="silder_cont">
                 <div id="slider">
                     <img src="images/slider_img.png"/>
-                    <img src="images/lands_img.png"/>
+                    <img src="images/lands_img.jpg"/>
                 </div>
 
                 <img id="seperator" src="images/sample.png"/>
@@ -103,6 +103,7 @@
                     <ul>
                         <li><img src="images/lands_img.jpg"/></li>
                         <li><p>كلام كلام كلام كلام كلام كلام كلام كلام كلام </p></li>
+                        
                     </ul>
                 </div>
                 </div>
